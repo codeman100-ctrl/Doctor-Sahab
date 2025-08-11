@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "c:\\Users\\skill\\Play-code\\Doctor-Sahab\\Doctor-Sahab",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
